@@ -3,7 +3,7 @@ Garage example
 
 Merhaba,
 
-uygulama örnek bir garajı simüle eder. Vale bulunmayan bir otopark gibi düşünülebilir. İçerideki araçlar, ayrılmadığı sürece garaj içinde hareket etmez. Yeni giriş yapan araçlar, mevcut araçlar arasında uygun boşluk varsa park edilir. Aks halde garaj dolu uyarısı verilir.
+uygulama örnek bir garajı simüle eder. Vale bulunmayan bir otopark gibi düşünülebilir. İçerideki araçlar, ayrılmadığı sürece garaj içinde hareket etmez. Yeni giriş yapan araçlar, mevcut araçlar arasında uygun boşluk varsa park edilir.
 
 ÖRNEK RESPONSE MODELLER
 
