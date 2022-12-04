@@ -15,7 +15,7 @@ import com.tolunayguduk.garage.request.ParkRequest;
 import com.tolunayguduk.garage.service.GarageService;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/garage")
 public class GarageController {
 
 	@Autowired
