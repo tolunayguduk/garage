@@ -35,7 +35,7 @@ leave:
   "status": 200,
   "explanation": "İşlem Başarılı",
   "result": {
-    "result": "34 APU 447 garajdan ayrıldı."
+    "result": "34 AAA 447 garajdan ayrıldı."
   }
 }
 
@@ -50,7 +50,7 @@ status:
         "vehicle": {
           "hold": 4,
           "vehicleType": "TRUCK",
-          "plate": "34 APU 447"
+          "plate": "34 AAA 447"
         },
         "color": "BLACK",
         "slots": [
@@ -65,7 +65,7 @@ status:
         "vehicle": {
           "hold": 1,
           "vehicleType": "CAR",
-          "plate": "34 APU 447"
+          "plate": "34 AAA 447"
         },
         "color": "BLACK",
         "slots": [
@@ -77,7 +77,7 @@ status:
         "vehicle": {
           "hold": 1,
           "vehicleType": "CAR",
-          "plate": "34 APU 447"
+          "plate": "34 AAA 447"
         },
         "color": "BLACK",
         "slots": [
